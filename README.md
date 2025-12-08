@@ -15,15 +15,15 @@ pip install -r requirements.txt
 python gaana.py https://gaana.com/album/bad-girls-like-you-english-version https://gaana.com/album/saiyaara-hindi-2025
 
 ```
-Quality and download path can be changed from `config.py` file.
+Quality and download path can be changed from `config.py` file.     
 The files will be save in the ``Gaana-dl/Downloads/`` directory
 
 #### To-do
-[ ] Playlist support
+[ ] Playlists support      
 [ ] Podcasts support
 
 
-If you find this tool helpful, please give it a ⭐ on GitHub!
+If you find this tool helpful, please give it a ⭐ on GitHub!    
 *Made with ❤️ for music lovers*
 #### Disclaimer
 I will not be responsible for how you use Gaana-dl.
